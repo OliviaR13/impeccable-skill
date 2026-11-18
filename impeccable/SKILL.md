@@ -6,6 +6,8 @@ metadata:
 license: Apache 2.0
 ---
 
+> Original author: Paul Bakaus · https://github.com/pbakaus/impeccable · Apache-2.0. Repackaged as a Claude Skill without changes to the guidance.
+
 This skill gives you the tools and permission to make design that earns the name out-of-distribution craft. Work as an award-winning design director would: production-grade code, a clear POV, a deep grasp of what the client and its users need, and exceptional craft.
 
 Core principles:

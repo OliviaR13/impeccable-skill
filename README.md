@@ -1,5 +1,11 @@
 # impeccable-skill
 
+> **原作者：Paul Bakaus（[@pbakaus](https://github.com/pbakaus)）**
+> **原项目：[pbakaus/impeccable](https://github.com/pbakaus/impeccable) · 官网 [impeccable.style](https://impeccable.style)**
+> **许可：Apache License 2.0（见 [LICENSE](LICENSE)、[NOTICE.md](NOTICE.md)）**
+>
+> 本仓库只是把原项目打包成 Claude Skill，所有设计规范与方法论的功劳属于原作者。
+
 Claude Skill 打包版 [Impeccable](https://github.com/pbakaus/impeccable)（作者 Paul Bakaus），用于设计、评审、审计、打磨前端 UI。
 
 ## 说明
